@@ -1,4 +1,4 @@
-# 
+# Instant WinRAR scripts for Mac OS | Open Source WinRAR scripts for PC Windows. Featuring service optimizer and cache clearing — optimized for maximum performance on every platform.
 
 
 
